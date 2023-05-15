@@ -28,7 +28,7 @@ Here,i created this app with [The Movie Database api](https://www.themoviedb.org
   shimmer: ^2.0.0
 
 <p align="center">
-<img src="Screenshot_1684145680.png" width="30%">
-<img src="Screenshot_1684145879.png" width="30%">
+<img src="screenshots/Screenshot_1684145680.png" width="30%">
+<img src="screenshots/Screenshot_1684145879.png" width="30%">
 
 </p>
