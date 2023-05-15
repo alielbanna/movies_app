@@ -2,14 +2,6 @@
 
 This app is similar to IMDB.
 
-## Changelog
-
-- New UI design added.
-- Added Animation.
-- app integrated with deep links.
-- removed useless login/signUp.
-- Added local database.
-
 ## App Information
 
 Here,i created this app with [The Movie Database api](https://www.themoviedb.org/settings/api) 
