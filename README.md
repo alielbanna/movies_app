@@ -1,6 +1,6 @@
 # Movie App
 
-
+This app is similar to IMDB.
 
 ## Changelog
 
