@@ -1,16 +1,34 @@
-# movies_app
+# Movie App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Changelog
 
-A few resources to get you started if this is your first Flutter project:
+- New UI design added.
+- Added Animation.
+- app integrated with deep links.
+- removed useless login/signUp.
+- Added local database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here,i created this app with [The Movie Database api](https://www.themoviedb.org/settings/api) 
+
+**Packages used:**
+
+  animate_do: ^3.0.2
+  cached_network_image: ^3.2.3
+  carousel_slider: ^4.2.1
+  dartz: ^0.10.1
+  dio: ^5.1.2
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.2
+  get_it: ^7.6.0
+  google_fonts: ^4.0.4
+  shimmer: ^2.0.0
+
+<p align="center">
+<img src="Screenshot_1684145680.png" width="30%">
+<img src="Screenshot_1684145879.png" width="30%">
+
+</p>
